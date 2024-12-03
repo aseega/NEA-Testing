@@ -1,0 +1,17 @@
+.third { 
+    width: 33.33%; 
+    float: left; 
+}
+
+
+body {
+    background-color: #E6E6FA;
+}
+
+h1 {
+    color: #a4863d;
+}
+
+.block {
+    background-color: #d9d9d9;
+}
