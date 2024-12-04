@@ -6,12 +6,27 @@
 
 body {
     background-color: #E6E6FA;
+    font-family: 'Libre Baskerville';
+    color: #a4863d;
 }
 
 h1 {
     color: #a4863d;
+    font-size:40px;
 }
 
 .block {
     background-color: #d9d9d9;
+}
+
+h2{
+    font-size: 30px;
+    text-align: center;
+    padding-top: 5%;
+}
+
+h3{
+    text-align:center;
+    padding-bottom:5%;
+    font-size:25px;
 }
